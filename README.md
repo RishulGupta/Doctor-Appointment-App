@@ -1,9 +1,9 @@
 # 🏥 Doctor Appointment App
 <div align="center">
 
-<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.51_5b1f3408.jpg" width="300">
-<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.51_2c288263.jpg" width="300">
-<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.50_2e6bd564.jpg" width="300">
+<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.51_5b1f3408.jpg" width="200">
+<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.51_2c288263.jpg" width="200">
+<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.50_2e6bd564.jpg" width="200">
 
 </div>
 
