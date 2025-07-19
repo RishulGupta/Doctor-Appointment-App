@@ -1,5 +1,14 @@
 # 🏥 Doctor Appointment App
+<div align="center">
 
+<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.51_5b1f3408.jpg" width="300">
+<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.51_2c288263.jpg" width="300">
+<img src="https://github.com/RishulGupta/Doctor-Appointment-App/blob/6a52ffae602f4a976ad4f2b019bb92dcf1fb7020/WhatsApp%20Image%202025-07-19%20at%2014.14.50_2e6bd564.jpg" width="300">
+
+</div>
+
+---
+## About the App
 A modern and responsive **Doctor Appointment Android App**, built using **Java** and **XML**. This project provides a clean interface for booking doctor appointments and was designed with beginners and intermediate Android developers in mind.
 
 > 💡 This project was originally inspired by [UI Lover’s YouTube video](https://www.youtube.com/watch?v=iEth3HD8-l8), which covered building a clean and elegant doctor appointment app UI. After following the video, backend functionality was added to make it a fully working application.
@@ -56,5 +65,5 @@ Or download the ZIP from GitHub and extract it.
 ---
 
 ## 🙌 Author
-Core logic by UiLover
-Developed by [@RishulGupta](https://github.com/RishulGupta)
+- Core logic by UiLover
+- Developed by [@RishulGupta](https://github.com/RishulGupta)
